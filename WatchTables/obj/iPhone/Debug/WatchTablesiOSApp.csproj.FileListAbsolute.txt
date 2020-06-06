@@ -1,0 +1,11 @@
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/bin/iPhone/Debug/WatchTables.exe
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/bin/iPhone/Debug/WatchTables.pdb
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/device-builds/iphone10.1-13.4.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/device-builds/iphone10.1-13.4.1/actool/_PartialAppManifest.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/device-builds/iphone10.1-13.4.1/actool/_BundleResourceWithLogicalName.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/device-builds/iphone10.1-13.4.1/coremlc/_PartialAppManifest.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/device-builds/iphone10.1-13.4.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/device-builds/iphone10.1-13.4.1/optimized/
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/WatchTablesiOSApp.csproj.CoreCompileInputs.cache
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/WatchTables.exe
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/WatchTables.pdb

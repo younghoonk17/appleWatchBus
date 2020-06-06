@@ -1,0 +1,23 @@
+"--cache=/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/apple watch series 5 - 44mm-6.2/mtouch-cache"
+"--sim=/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/bin/iPhoneSimulator/Debug/device-builds/apple watch series 5 - 44mm-6.2/WatchTablesOnWatchExtension.appex"
+--executable=WatchTablesOnWatchExtension
+--extension
+--debug
+--nolink
+--sdkroot=/Applications/Xcode.app/Contents/Developer
+--sdk=6.2
+--targetver=3.0
+--aot-options=-O=-float32
+--http-message-handler=NSUrlSessionHandler
+--abi=i386
+"--symbollist=/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhoneSimulator/Debug/device-builds/apple watch series 5 - 44mm-6.2/mtouch-symbols.list"
+--dsym=no
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/mscorlib.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/System.Core.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/System.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/Facades/System.Drawing.Common.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/System.Net.Http.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/System.Xml.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/Xamarin.WatchOS.dll
+--target-framework=Xamarin.WatchOS,v1.0
+--root-assembly=/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/bin/iPhoneSimulator/Debug/WatchTablesOnWatchExtension.dll

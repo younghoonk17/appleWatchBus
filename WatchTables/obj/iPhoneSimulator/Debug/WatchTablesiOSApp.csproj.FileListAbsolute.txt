@@ -1,0 +1,12 @@
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/bin/iPhoneSimulator/Debug/WatchTables.exe
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/bin/iPhoneSimulator/Debug/WatchTables.pdb
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.5/actool/_PartialAppManifest.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.5/actool/_BundleResourceWithLogicalName.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.5/coremlc/_PartialAppManifest.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.5/coremlc/_BundleResourceWithLogicalName.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.5/optimized/
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/WatchTablesiOSApp.csprojAssemblyReference.cache
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/WatchTablesiOSApp.csproj.CoreCompileInputs.cache
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/WatchTables.exe
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/WatchTables.pdb

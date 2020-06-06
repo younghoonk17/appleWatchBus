@@ -1,0 +1,16 @@
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/device-builds/iphone10.1-13.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/device-builds/iphone10.1-13.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/device-builds/iphone10.1-13.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/device-builds/iphone10.1-13.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/device-builds/iphone10.1-13.4.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/device-builds/iphone10.1-13.4.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhone/Debug/device-builds/iphone10.1-13.4.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip
+Function=mono_profiler_init_log

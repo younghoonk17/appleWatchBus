@@ -1,0 +1,5 @@
+RemoveDynamicRegistrar:true
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/bin/iPhone/Debug/WatchTablesOnWatchExtension.appex:/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/WatchTablesOnWatchExtension.dll
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/bin/iPhone/Debug/WatchTablesOnWatchExtension.appex:/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/bin/iPhone/Debug/WatchTablesOnWatchExtension.appex:/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/bin/iPhone/Debug/WatchTablesOnWatchExtension.appex:/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/System.dll

@@ -1,0 +1,9 @@
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/bin/iPhoneSimulator/Debug/WatchTablesOnWatchExtension.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.18.2.1/lib/mono/Xamarin.WatchOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.18.2.1/lib/mono/Xamarin.WatchOS/../../32bits/Xamarin.WatchOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.18.2.1/lib/mono/Xamarin.WatchOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.18.2.1/lib/mono/Xamarin.WatchOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.18.2.1/lib/mono/Xamarin.WatchOS/System.Numerics.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.18.2.1/lib/mono/Xamarin.WatchOS/System.Core.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.18.2.1/lib/mono/Xamarin.WatchOS/System.Net.Http.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.18.2.1/lib/mono/Xamarin.WatchOS/Facades/System.Drawing.Common.dll

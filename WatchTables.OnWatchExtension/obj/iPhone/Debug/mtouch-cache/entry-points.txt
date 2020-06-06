@@ -1,0 +1,67 @@
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_bool_objc_msgSend
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_bool_objc_msgSendSuper
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_IntPtr_objc_msgSend
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_IntPtr_objc_msgSendSuper
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_void_objc_msgSend
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_void_objc_msgSendSuper
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_IntPtr_objc_msgSend_IntPtr
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_IntPtr_objc_msgSend_IntPtr_IntPtr
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_IntPtr_objc_msgSendSuper_IntPtr_IntPtr
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_bool_objc_msgSend_IntPtr
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_bool_objc_msgSendSuper_IntPtr
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_IntPtr_objc_msgSend_nint
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_void_objc_msgSend_IntPtr
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_void_objc_msgSendSuper_IntPtr
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_nuint_objc_msgSend
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_nuint_objc_msgSendSuper
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_IntPtr_objc_msgSend_nuint
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_int_objc_msgSend_IntPtr
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_void_objc_msgSend_IntPtr_nint
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_void_objc_msgSendSuper_IntPtr_nint
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_void_objc_msgSend_nint_IntPtr
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_IntPtr_objc_msgSend_IntPtr_IntPtr_nint
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_nint
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=xamarin_pinvoke_wrapper_void_objc_msgSend_IntPtr_IntPtr_bool
+	/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+Function=mono_pmip

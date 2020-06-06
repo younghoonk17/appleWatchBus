@@ -1,0 +1,12 @@
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatch/bin/iPhoneSimulator/Debug/WatchTablesOnWatch.dll
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatch/bin/iPhoneSimulator/Debug/WatchTablesOnWatch.pdb
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatch/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatch/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatch/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatch/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatch/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatch/obj/iPhoneSimulator/Debug/optimized/
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatch/obj/iPhoneSimulator/Debug/WatchTables.OnWatch.csprojAssemblyReference.cache
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatch/obj/iPhoneSimulator/Debug/WatchTables.OnWatch.csproj.CoreCompileInputs.cache
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatch/obj/iPhoneSimulator/Debug/WatchTablesOnWatch.dll
+/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatch/obj/iPhoneSimulator/Debug/WatchTablesOnWatch.pdb
