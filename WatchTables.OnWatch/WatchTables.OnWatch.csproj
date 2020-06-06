@@ -33,7 +33,8 @@
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\iPhone\Release</OutputPath>
-    <DefineConstants></DefineConstants>
+    <DefineConstants>
+    </DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <CodesignKey>iPhone Developer</CodesignKey>
@@ -52,7 +53,8 @@
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
-    <DefineConstants></DefineConstants>
+    <DefineConstants>
+    </DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <CodesignKey>iPhone Developer</CodesignKey>
@@ -95,16 +97,36 @@
     <Reference Include="Xamarin.WatchOS" />
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-24%402x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-27.5%402x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-29%402x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-29%403x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-40%402x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-44%402x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-86%402x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-98%402x.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-24%402x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-27.5%402x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-29%402x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-29%403x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-40%402x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-44%402x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-86%402x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-98%402x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
@@ -121,6 +143,7 @@
       <IsAppExtension>true</IsAppExtension>
       <Project>{1726E324-A435-4269-8B2F-89D6CB34A629}</Project>
       <Name>WatchTables.OnWatchExtension</Name>
+      <IsWatchApp>false</IsWatchApp>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\WatchOS\Xamarin.WatchOS.App.CSharp.targets" />

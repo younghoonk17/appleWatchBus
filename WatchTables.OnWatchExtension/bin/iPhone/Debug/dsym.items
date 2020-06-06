@@ -5,7 +5,7 @@
       <CompiledArchitectures>ARMv7k</CompiledArchitectures>
       <NativeExecutable>WatchTablesOnWatchExtension</NativeExecutable>
       <NoSymbolStrip>False</NoSymbolStrip>
-      <SymbolsList>/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables.OnWatchExtension/obj/iPhone/Debug/mtouch-symbols.list</SymbolsList>
+      <SymbolsList>\Users\yh\Library\Caches\Xamarin\mtbs\builds\WatchTables.OnWatchExtension\830eeb6d321b377633dee24a83716505\obj\iPhone\Debug\mtouch-symbols.list</SymbolsList>
       <NoDSymUtil>false</NoDSymUtil>
     </_AppExtensionDebugSymbolProperties>
   </ItemGroup>

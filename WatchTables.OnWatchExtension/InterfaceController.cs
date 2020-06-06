@@ -4,6 +4,8 @@ using WatchKit;
 using Foundation;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
+using WatchTables.OnWatchExtension.Objects;
 
 namespace WatchTables.OnWatchExtension
 {
@@ -23,12 +25,13 @@ namespace WatchTables.OnWatchExtension
 			// Configure interface objects here.
 			Console.WriteLine("{0} awake with context", this);
 
-			rows.Add("row1");
-            rows.Add("Testing");
-			rows.Add("row2");
-			rows.Add("row3");
-			rows.Add("row4");
-			rows.Add("row5");
+			var apiCall = TestWebCallAsync();
+
+			foreach (BusTime busTime in apiCall.Result.response)
+            {
+				rows.Add(busTime.route_short_name + "--" + busTime.departure_time);
+            }
+
 		}
 
 		public override void WillActivate()
@@ -38,7 +41,7 @@ namespace WatchTables.OnWatchExtension
 
 			LoadTableRows();
 
-			Console.WriteLine(TestWebCallAsync());
+			
 
 			Console.WriteLine("hello?");
 		}
@@ -74,30 +77,32 @@ namespace WatchTables.OnWatchExtension
 			Console.WriteLine("Row selected:" + rowData);
 		}
 
-		async Task<string> TestWebCallAsync()
+		async Task<BusTimes> TestWebCallAsync()
         {
+
+			var path = "https://api.at.govt.nz/v2/gtfs/stops/stopinfo/3484";
+
 			HttpClient client = new HttpClient();
 
-			// Call asynchronous network methods in a try/catch block to handle exceptions.
-			try
+			client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", "2ad7952efddc4e26b4739c90680571f9");
+
+			HttpResponseMessage response = await client.GetAsync(path);
+
+
+			if (response.IsSuccessStatusCode)
 			{
-				HttpResponseMessage response = await client.GetAsync("http://www.contoso.com/");
-				response.EnsureSuccessStatusCode();
-				string responseBody = await response.Content.ReadAsStringAsync();
-				// Above three lines can be replaced with new helper method below
-				// string responseBody = await client.GetStringAsync(uri);
 
-				Console.WriteLine("got it back");
-				Console.WriteLine(responseBody);
+				var res = await response.Content.ReadAsStringAsync();
+				var busTimes = JsonConvert.DeserializeObject<BusTimes>(res);
 
-				return responseBody;
+				return busTimes;
+
 			}
-			catch (HttpRequestException e)
+			else
 			{
-				Console.WriteLine("\nException Caught!");
-				Console.WriteLine("Message :{0} ", e.Message);
+				Console.WriteLine("error " + response.RequestMessage.ToString());
 
-				return e.Message;
+				return null;
 			}
 
 		}

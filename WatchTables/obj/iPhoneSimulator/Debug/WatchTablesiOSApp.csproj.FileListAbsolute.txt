@@ -1,12 +1,30 @@
-/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/bin/iPhoneSimulator/Debug/WatchTables.exe
-/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/bin/iPhoneSimulator/Debug/WatchTables.pdb
-/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.5/ibtool/_BundleResourceWithLogicalName.items
-/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.5/actool/_PartialAppManifest.items
-/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.5/actool/_BundleResourceWithLogicalName.items
-/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.5/coremlc/_PartialAppManifest.items
-/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.5/coremlc/_BundleResourceWithLogicalName.items
-/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.5/optimized/
-/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/WatchTablesiOSApp.csprojAssemblyReference.cache
-/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/WatchTablesiOSApp.csproj.CoreCompileInputs.cache
-/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/WatchTables.exe
-/Users/yh/Solutions/ios-samples/watchOS/WatchTables/WatchTables/obj/iPhoneSimulator/Debug/WatchTables.pdb
+E:\git\appleWatchBus\WatchTables\bin\iPhoneSimulator\Debug\WatchTables.exe
+E:\git\appleWatchBus\WatchTables\bin\iPhoneSimulator\Debug\WatchTables.pdb
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\Contents.json.ResolveUTIs.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\Icon-60@2x.png.ResolveUTIs.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\Icon-72.png.ResolveUTIs.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\Icon-72@2x.png.ResolveUTIs.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\Icon-76.png.ResolveUTIs.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\Icon-76@2x.png.ResolveUTIs.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\Icon-Small-50.png.ResolveUTIs.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\Icon-Small-50@2x.png.ResolveUTIs.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\Icon-Small.png.ResolveUTIs.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\Icon-Small@2x.png.ResolveUTIs.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\Icon-Spotlight-40.png.ResolveUTIs.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\Icon-Spotlight-40@2x.png.ResolveUTIs.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\Icon.png.ResolveUTIs.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\Icon@2x.png.ResolveUTIs.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\optimized\
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\WatchTablesiOSApp.csprojAssemblyReference.cache
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\WatchTablesiOSApp.csproj.CoreCompileInputs.cache
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\WatchTables.exe
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\WatchTables.pdb
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\CopyFilesToMac\WatchTables.exe.mdb.ReferenceCopyLocalPaths.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\CopyFilesToMac\WatchTables.pdb.DebugSymbolsProjectOutputGroupOutput.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\CopyFilesToMac\Info.plist.NoneOutput.stamp
+E:\git\appleWatchBus\WatchTables\obj\iPhoneSimulator\Debug\CopyFilesToMac\Entitlements.plist.NoneOutput.stamp
